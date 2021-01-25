@@ -2,7 +2,7 @@
 
 Repo owner and maintainer: Swapna Sama
 
-Link to Repo: 
+Link to Repo: [dsgn270-a2](https://github.com/swappnasama/dsgn270-a2.git)
 
 ## Attributions:
 
